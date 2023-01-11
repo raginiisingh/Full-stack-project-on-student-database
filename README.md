@@ -5,7 +5,7 @@ This is a full stack web application to store various student's data. On this we
 - Update/edit the details
 - View the details 
 - Delete a student's details
-#Tech Stack used
+# Tech Stack used
 -HTML
 -CSS
 -JavaScript
